@@ -1,9 +1,9 @@
-## Interface: 120001, 120005, 120007, 120100
+## Interface: 120001, 120005, 120007, 120100, 120105
 ## Title: Percentage Ratings
 ## X-Curse-Project-ID: 1451772
 ## Notes: Converts combat ratings to percentages with full customization.
 ## Author: Meudayr_cr
-## Version: 1.7.16
+## Version: 1.7.17
 ## SavedVariables: MidnightRatingsDB
 ## OptionalDeps: DejaCharacterStats, Pawn
 ## IconTexture: Interface\Icons\spell_holy_elunesgrace
